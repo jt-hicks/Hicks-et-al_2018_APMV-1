@@ -4,4 +4,4 @@
 
 Joseph T. Hicks, Kiril M. Dimitrov, Claudio L. Afonso, Andrew M. Ramey, and Justin Bahl
 
-Infection, Genetics, and Evolution: in review
+BMC Evolutionary Biology: in review
