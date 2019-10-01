@@ -4,4 +4,4 @@
 
 Joseph T. Hicks, Kiril M. Dimitrov, Claudio L. Afonso, Andrew M. Ramey, and Justin Bahl
 
-BMC Evolutionary Biology: in review
+BMC Evolutionary Biology: https://doi.org/10.1186/s12862-019-1431-2
